@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-javascript
+```javascript
 class AnasAbdulEl {
   String role = "Frontend Developer & React Enthusiast";
   String language = "Arabic / English";
@@ -24,7 +24,7 @@ class AnasAbdulEl {
   ];
 }
 
-
+```
 ---
 
 
