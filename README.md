@@ -48,7 +48,7 @@ class AnasAbdulEl {
 
 🧰 Tech Toolbox
 
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,redux,php,laravel,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,redux,ts,tailwind,git,vscode" />
 
 
 ---
@@ -57,26 +57,16 @@ class AnasAbdulEl {
 
 📂 Featured Projects
 
-Crypto Tracker – React app fetching real-time crypto data, with favorites, API integration, Google Pay, and paid/free plans
-
 Portfolio CLI – A command-line portfolio showing projects and skills
-
-Garden Grid Game – Mini React game with grid-based logic and interactive UI
-
 
 ---
 
 
 🏗 Currently Learning
 
-Redux + Redux Toolkit
+- React NextJs
 
-Advanced React patterns & hooks
-
-PHP & Laravel for backend integration
-
-Flexbox & Grid advanced layouts
-
+- TypeScript
 
 ---
 
