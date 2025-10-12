@@ -1,11 +1,6 @@
 <h1 align="center">Hi, I'm Anas Abdul El 👋</h1>
 <h3 align="center">Frontend Developer 🧩 | React & JavaScript Enthusiast | Calisthenics & Tech Lover</h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/anas-abdul-el"><img src="https://img.shields.io/badge/LinkedIn-Anas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/anas-abdul-el"><img src="https://img.shields.io/badge/GitHub-Anas-000?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
 ---
 
 ## 🚀 About Me
