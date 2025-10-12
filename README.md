@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-```javascript
+javascript
 class AnasAbdulEl {
   String role = "Frontend Developer & React Enthusiast";
   String language = "Arabic / English";
@@ -25,6 +25,10 @@ class AnasAbdulEl {
 }
 
 
+---
+
+
+
 🔥 Highlights
 
 👨‍💻 Built multiple small React projects, including a crypto tracker and portfolio CLI
@@ -38,10 +42,17 @@ class AnasAbdulEl {
 💡 Enjoy solving problems and building practical applications
 
 
+---
+
+
 
 🧰 Tech Toolbox
 
   <img src="https://skillicons.dev/icons?i=react,js,html,css,redux,php,laravel,git,vscode" />
+
+
+---
+
 
 
 📂 Featured Projects
@@ -52,6 +63,8 @@ Portfolio CLI – A command-line portfolio showing projects and skills
 
 Garden Grid Game – Mini React game with grid-based logic and interactive UI
 
+
+---
 
 
 🏗 Currently Learning
@@ -64,6 +77,8 @@ PHP & Laravel for backend integration
 
 Flexbox & Grid advanced layouts
 
+
+---
 
 
 🎯 Goals
