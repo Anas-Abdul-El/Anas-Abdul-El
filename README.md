@@ -16,7 +16,6 @@ class AnasAbdulEl {
     "Axios",
     "React Hooks Form",
     "React Routes",
-    "Basic PHP & Laravel (future)",
     "Git & GitHub",
     "Clean & readable code"
   ];
