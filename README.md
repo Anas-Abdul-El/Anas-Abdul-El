@@ -25,8 +25,6 @@ class AnasAbdulEl {
 }
 
 
----
-
 🔥 Highlights
 
 👨‍💻 Built multiple small React projects, including a crypto tracker and portfolio CLI
@@ -41,13 +39,10 @@ class AnasAbdulEl {
 
 
 
----
-
 🧰 Tech Toolbox
 
   <img src="https://skillicons.dev/icons?i=react,js,html,css,redux,php,laravel,git,vscode" />
 
----
 
 📂 Featured Projects
 
@@ -58,8 +53,6 @@ Portfolio CLI – A command-line portfolio showing projects and skills
 Garden Grid Game – Mini React game with grid-based logic and interactive UI
 
 
-
----
 
 🏗 Currently Learning
 
@@ -73,8 +66,6 @@ Flexbox & Grid advanced layouts
 
 
 
----
-
 🎯 Goals
 
 Build a full-stack project combining frontend & backend
@@ -86,16 +77,12 @@ Improve code quality & maintainability
 Contribute to open-source projects
 
 
-
----
-
 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anas-abdul-el&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anas-abdul-el&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
 </p>
----
 
 ⚡ Motto
 
