@@ -45,9 +45,8 @@ class AnasAbdulEl {
 
 🧰 Tech Toolbox
 
-<p align="center">
   <img src="https://skillicons.dev/icons?i=react,js,html,css,redux,php,laravel,git,vscode" />
-</p>
+
 ---
 
 📂 Featured Projects
