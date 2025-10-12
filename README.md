@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Anas Abdul El 👋</h1>
-<h3 align="center">Frontend Developer 🧩 | React & JavaScript Enthusiast | Calisthenics & Tech Lover</h3>
+<h3 align="center">Frontend Developer 🧩 | React & JavaScript Enthusiast | Tech Lover</h3>
 
 ---
 
