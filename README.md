@@ -12,7 +12,10 @@ class AnasAbdulEl {
   List<String> skills = [
     "React.js & JavaScript",
     "HTML, CSS, Flexbox & Grid",
-    "Redux Toolkit (future)",
+    "Redux Toolkit",
+    "Axios",
+    "React Hooks Form",
+    "React Routes",
     "Basic PHP & Laravel (future)",
     "Git & GitHub",
     "Clean & readable code"
@@ -48,7 +51,7 @@ class AnasAbdulEl {
 
 🧰 Tech Toolbox
 
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,redux,ts,tailwind,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,redux,ts,tailwind,git,axios,routes,vscode" />
 
 
 ---
