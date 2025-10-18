@@ -11,13 +11,13 @@ class AnasAbdulEl {
   String language = "Arabic / English";
   List<String> skills = [
     "React.js & JavaScript",
+    "TypeScript",
     "HTML, CSS, Flexbox & Grid",
     "TailwindCSS",
     "Redux Toolkit",
     "Axios",
     "React Hooks Form",
     "React Routes",
-    "TypeScript",
     "Git & GitHub",
     "Clean & readable code"
   ];
