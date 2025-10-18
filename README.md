@@ -12,10 +12,12 @@ class AnasAbdulEl {
   List<String> skills = [
     "React.js & JavaScript",
     "HTML, CSS, Flexbox & Grid",
+    "TailwindCSS",
     "Redux Toolkit",
     "Axios",
     "React Hooks Form",
     "React Routes",
+    "TypeScript",
     "Git & GitHub",
     "Clean & readable code"
   ];
@@ -33,11 +35,9 @@ class AnasAbdulEl {
 
 🔥 Highlights
 
-👨‍💻 Built multiple small React projects, including a crypto tracker and portfolio CLI
+👨‍💻 Built multiple small React projects, including a crypto tracker
 
 ⚡ Strong foundation in frontend technologies (HTML, CSS, JS, React)
-
-🚀 Learning backend development (PHP & Laravel) to become a full-stack developer
 
 🎯 Focused on writing clean, maintainable, and reusable code
 
@@ -67,8 +67,6 @@ Portfolio CLI – A command-line portfolio showing projects and skills
 🏗 Currently Learning
 
 - React NextJs
-
-- TypeScript
 
 ---
 
