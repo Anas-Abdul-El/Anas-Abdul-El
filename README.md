@@ -50,7 +50,7 @@ class AnasAbdulEl {
 
 🧰 Tech Toolbox
 
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,redux,ts,tailwind,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,redux,ts,tailwind,git,vscode,nextjs,prisma" />
 
 
 ---
