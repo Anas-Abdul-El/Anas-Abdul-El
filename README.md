@@ -82,8 +82,9 @@ Improve code quality & maintainability
 Contribute to open-source projects
 
 
-📊 GitHub Status
+📊 GitHub Stats
 
+  <img src="https://github-readme-stats.vercel.app/api?username=anas-abdul-el&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=anas-abdul-el&theme=tokyonight&hide_border=true&border_radius=10" width="48%"/>
 
 ⚡ Motto
