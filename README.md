@@ -45,27 +45,27 @@ class AnasAbdulEl {
     
 <h3>🧰 Tech Stack</h3> 
  <h4>💻 Frontend</h4>
-    - Next.js 
-    - React 
-    - TypeScript 
-    - TailwindCSS 
-    - shadcn/ui 
-    - Animation Libraries
+- Next.js 
+- React 
+- TypeScript 
+- TailwindCSS 
+- shadcn/ui 
+- Animation Libraries
     
   <h4>⚙️ Backend</h4>
-      - Next.js Server Actions 
-      - API Routes • Prisma ORM 
-      - PostgreSQL (Neon)
+- Next.js Server Actions 
+- API Routes • Prisma ORM 
+- PostgreSQL (Neon)
 
   <h4>🔐 Authentication & Security</h4>
-      - Auth.js 
-      - bcrypt 
-      - Zod Validation
+- Auth.js 
+- bcrypt 
+- Zod Validation
       
   <h4>🚀 Deployment & Tools</h4>
-      - Vercel 
-      - Git 
-      - GitHub
+- Vercel 
+- Git 
+- GitHub
 <hr />
 
 <h3>🧰 Tech ToolBox</h3> 
@@ -74,17 +74,17 @@ class AnasAbdulEl {
 
   <h3>📂 Featured Projects</h3>  
     <h4>🏋️ SaaS Platform</h4>
-        - Authentication & Role-based access
-        - Dashboard & Protected Routes
-        - Server Actions
-        - Redis caching
-        - Modern UI
+- Authentication & Role-based access
+- Dashboard & Protected Routes
+- Server Actions
+- Redis caching
+- Modern UI
     <h4>🛒 E-Commerce Store</h4>
-        - Cart & Checkout system
-        - Admin panel (CRUD products)
-        - Auth system
-        - Responsive design
-        - Production deployed on Vercel
+- Cart & Checkout system
+- Admin panel (CRUD products)
+- Auth system
+- Responsive design
+- Production deployed on Vercel
     <hr />
 
   <h3>🎯 Current Focus</h3>
