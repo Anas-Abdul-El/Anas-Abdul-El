@@ -1,5 +1,6 @@
+
 <h1 align="center">Hi, I'm Anas Abdul El 👋</h1>
-<h3 align="center">Frontend Developer 🧩 | React & JavaScript Enthusiast | Tech Lover</h3>
+<h3 align="center">Full-Stack Next.js Developer 🚀 | SaaS & E-Commerce Builder | Performance & UX Focused</h3>
 
 ---
 
@@ -7,88 +8,63 @@
 
 ```javascript
 class AnasAbdulEl {
-  String role = "Frontend Developer & React Enthusiast";
-  String language = "Arabic / English";
-  List<String> skills = [
-    "React.js & JavaScript",
-    "TypeScript",
-    "HTML, CSS, Flexbox & Grid",
-    "TailwindCSS",
-    "Redux Toolkit",
-    "Axios",
-    "React Hooks Form",
-    "React Routes",
-    "Git & GitHub",
-    "Clean & readable code"
-  ];
-  List<String> interests = [
-    "Calisthenics & bodyweight training",
-    "Tech trends & programming projects",
-    "Learning new tools and frameworks"
+  role = "Full-Stack Next.js Developer";
+  focus = "Building scalable SaaS & E-Commerce applications";
+  
+  stack = {
+    frontend: ["Next.js", "React", "TypeScript", "TailwindCSS", "shadcn/ui"],
+    backend: ["Next.js API Routes", "Auth.js", "Prisma ORM"],
+    database: ["PostgreSQL", "Neon"],
+    validation: ["Zod"],
+    security: ["bcrypt"],
+    performance: ["Redis Caching"],
+    deployment: ["Vercel"],
+  };
+
+  principles = [
+    "Clean architecture",
+    "Modern UI/UX",
+    "Responsive-first design",
+    "Performance optimization",
+    "Scalable backend structure"
   ];
 }
-
-```
----
-
-
-
-🔥 Highlights
-
-👨‍💻 Built multiple small React projects, including a crypto tracker
-
-⚡ Strong foundation in frontend technologies (HTML, CSS, JS, React)
-
-🎯 Focused on writing clean, maintainable, and reusable code
-
-💡 Enjoy solving problems and building practical applications
-
-
----
-
-
-
-🧰 Tech Toolbox
-
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,redux,ts,tailwind,git,vscode,nextjs,prisma" />
-
-
----
-
-
-
+🔥 What I Build
+🏗 Full-Stack SaaS Applications
+🛒 Modern E-Commerce Platforms
+🔐 Secure Authentication Systems (Auth.js + bcrypt)
+📦 Role-Based Dashboards (Admin / User)
+⚡ Optimized Apps with Redis Caching
+🎨 Modern, Responsive & Animated UI
+🧰 Tech Stack
+💻 Frontend
+Next.js • React • TypeScript • TailwindCSS • shadcn/ui • Animation Libraries
+⚙️ Backend
+Next.js Server Actions • API Routes • Prisma ORM • PostgreSQL (Neon)
+🔐 Authentication & Security
+Auth.js • bcrypt • Zod Validation
+🚀 Deployment & Tools
+Vercel • Git • GitHub
 📂 Featured Projects
-
-Portfolio CLI – A command-line portfolio showing projects and skills
-
----
-
-
-🏗 Currently Learning
-
-- React NextJs
-
----
-
-
-🎯 Goals
-
-Build a full-stack project combining frontend & backend
-
-Create reusable components library for React projects
-
-Improve code quality & maintainability
-
-Contribute to open-source projects
-
-
+🏋️ SaaS Platform
+Authentication & Role-based access
+Dashboard & Protected Routes
+Server Actions
+Redis caching
+Modern UI
+🛒 E-Commerce Store
+Cart & Checkout system
+Admin panel (CRUD products)
+Auth system
+Responsive design
+Production deployed on Vercel
+🎯 Current Focus
+Advanced Next.js Architecture
+Performance Optimization
+Clean Code & Scalability
+Backend depth (caching, system design)
 📊 GitHub Stats
-
-  <img src="https://github-readme-stats.vercel.app/api?username=anas-abdul-el&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=anas-abdul-el&theme=tokyonight&hide_border=true&border_radius=10" width="48%"/>
-
+�
+￼ ￼
 ⚡ Motto
-
-> “Code clean, learn fast, build smarter.”
-
-
+"Build real systems. Think scalable. Ship production-ready."
