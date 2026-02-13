@@ -68,6 +68,10 @@ class AnasAbdulEl {
       - GitHub
 <hr />
 
+<h3>🧰 Tech ToolBox</h3> 
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,prisma,postgres,redis,git,github,vscode" />
+<hr />
+
   <h3>📂 Featured Projects</h3>  
     <h4>🏋️ SaaS Platform</h4>
         - Authentication & Role-based access
