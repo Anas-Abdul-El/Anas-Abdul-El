@@ -85,12 +85,11 @@ class AnasAbdulEl {
 
   <h3>🎯 Current Focus</h3>
 
-Advanced Next.js Architecture
-Performance Optimization
-Clean Code & Scalability
-Backend depth (caching, system design)
-📊 GitHub Stats
-�
-￼ ￼
-⚡ Motto
+- Advanced Next.js Architecture
+- Performance Optimization
+- Clean Code & Scalability
+- Backend depth (caching, system design)
+<hr />
+
+  <h3>⚡ Motto</h3>
 "Build real systems. Think scalable. Ship production-ready."
