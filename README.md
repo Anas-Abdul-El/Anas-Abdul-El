@@ -76,8 +76,10 @@ class AnasAbdulEl {
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,ts,tailwind,prisma,postgres,redis,git,github,vscode,vercel" />
 <hr />
 
-<h3>📂 Featured Projects</h3>  
- <h4>🏋️ SaaS Platform</h4>
+<h3>📂 Featured Projects</h3> 
+
+<h4>🏋️ SaaS Platform</h4>
+
 - Authentication & Role-based access
 - Dashboard & Protected Routes
 - Server Actions
@@ -85,6 +87,7 @@ class AnasAbdulEl {
 - Modern UI
 
 <h4>🛒 E-Commerce Store</h4>
+
 - Cart & Checkout system
 - Admin panel (CRUD products)
 - Auth system
@@ -92,7 +95,7 @@ class AnasAbdulEl {
 - Production deployed on Vercel
     <hr />
 
-  <h3>🎯 Current Focus</h3>
+<h4>🎯 Current Focus</h4>
 
 - Advanced Next.js Architecture
 - Performance Optimization
