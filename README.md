@@ -45,6 +45,7 @@ class AnasAbdulEl {
     
 <h3>🧰 Tech Stack</h3> 
  <h4>💻 Frontend</h4>
+ 
 - Next.js 
 - React 
 - TypeScript 
@@ -52,17 +53,20 @@ class AnasAbdulEl {
 - shadcn/ui 
 - Animation Libraries
     
-  <h4>⚙️ Backend</h4>
+<h4>⚙️ Backend</h4>
+  
 - Next.js Server Actions 
 - API Routes • Prisma ORM 
 - PostgreSQL (Neon)
 
-  <h4>🔐 Authentication & Security</h4>
+<h4>🔐 Authentication & Security</h4>
+
 - Auth.js 
 - bcrypt 
 - Zod Validation
       
-  <h4>🚀 Deployment & Tools</h4>
+<h4>🚀 Deployment & Tools</h4>
+
 - Vercel 
 - Git 
 - GitHub
@@ -72,14 +76,15 @@ class AnasAbdulEl {
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,ts,tailwind,prisma,postgres,redis,git,github,vscode,vercel" />
 <hr />
 
-  <h3>📂 Featured Projects</h3>  
-    <h4>🏋️ SaaS Platform</h4>
+<h3>📂 Featured Projects</h3>  
+ <h4>🏋️ SaaS Platform</h4>
 - Authentication & Role-based access
 - Dashboard & Protected Routes
 - Server Actions
 - Redis caching
 - Modern UI
-    <h4>🛒 E-Commerce Store</h4>
+
+<h4>🛒 E-Commerce Store</h4>
 - Cart & Checkout system
 - Admin panel (CRUD products)
 - Auth system
