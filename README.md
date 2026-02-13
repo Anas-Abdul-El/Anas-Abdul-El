@@ -103,5 +103,10 @@ class AnasAbdulEl {
 - Backend depth (caching, system design)
 <hr />
 
+📊 GitHub Stats
+
+  <img src="https://github-readme-stats.vercel.app/api?username=anas-abdul-el&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+<hr />
+
   <h3>⚡ Motto</h3>
 "Build real systems. Think scalable. Ship production-ready."
