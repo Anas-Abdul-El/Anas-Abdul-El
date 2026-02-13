@@ -31,14 +31,16 @@ class AnasAbdulEl {
 }
 
 ```
-<hr />
-🔥 What I Build
-🏗 Full-Stack SaaS Applications
-🛒 Modern E-Commerce Platforms
-🔐 Secure Authentication Systems (Auth.js + bcrypt)
-📦 Role-Based Dashboards (Admin / User)
-⚡ Optimized Apps with Redis Caching
-🎨 Modern, Responsive & Animated UI
+---
+<h3>🔥 What I Build</h3> 
+
+  - 🏗 Full-Stack SaaS Applications
+  - 🛒 Modern E-Commerce Platforms
+  - 🔐 Secure Authentication Systems (Auth.js + bcrypt)
+  - 📦 Role-Based Dashboards (Admin / User)
+  - ⚡ Optimized Apps with Redis Caching
+  - 🎨 Modern, Responsive & Animated UI
+  
 🧰 Tech Stack
 💻 Frontend
 Next.js • React • TypeScript • TailwindCSS • shadcn/ui • Animation Libraries
