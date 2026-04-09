@@ -13,7 +13,7 @@ class AnasAbdulEl {
   
   stack = {
     frontend: ["Next.js", "React", "TypeScript", "TailwindCSS", "shadcn/ui"],
-    backend: ["Next.js API Routes", "Auth.js", "Prisma ORM"],
+    backend: ["Next.js API Routes", "Auth.js", "Prisma ORM", "Redis Caching"],
     database: ["PostgreSQL", "Neon"],
     validation: ["Zod"],
     security: ["bcrypt"],
