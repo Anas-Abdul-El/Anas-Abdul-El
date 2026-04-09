@@ -58,6 +58,7 @@ class AnasAbdulEl {
 - Next.js Server Actions 
 - API Routes • Prisma ORM 
 - PostgreSQL (Neon)
+- Redis Caching
 
 <h4>🔐 Authentication & Security</h4>
 
