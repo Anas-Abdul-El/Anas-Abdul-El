@@ -14,7 +14,7 @@ class AnasAbdulEl {
   stack = {
     frontend: ["Next.js", "React", "TypeScript", "TailwindCSS", "shadcn/ui", "motion"],
     backend: ["Next.js API Routes", "Auth.js", "Prisma ORM", "Redis Caching"],
-    testing: ["vitest", "Jest", "RTL"]
+    testing: ["vitest", "Jest", "RTL"],
     database: ["PostgreSQL", "Neon"],
     validation: ["Zod"],
     security: ["bcrypt"],
@@ -78,7 +78,7 @@ class AnasAbdulEl {
 
 
 <h3>🧰 Tech ToolBox</h3> 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,ts,tailwind,prisma,postgres,redis,git,github,vscode,vercel,vitest,jest" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,ts,tailwind,prisma,postgres,redis,git,github,vscode,vercel,vitest,jest,react-testing-library" />
 <hr />
 
 <h3>📂 Featured Projects</h3> 
