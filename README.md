@@ -78,7 +78,7 @@ class AnasAbdulEl {
 
 
 <h3>🧰 Tech ToolBox</h3> 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,ts,tailwind,motion,prisma,postgres,redis,git,github,vscode,vercel,vitest,jest,express,docker" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,ts,tailwind,framer,prisma,postgres,redis,git,github,vscode,vercel,vitest,jest,express,docker" />
 <hr />
 
 <h3>📂 Featured Projects</h3> 
