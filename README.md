@@ -1,117 +1,240 @@
 
 <h1 align="center">Hi, I'm Anas Abdul El 👋</h1>
-<h3 align="center">Full-Stack Next.js Developer 🚀 | SaaS & E-Commerce Builder | Performance & UX Focused</h3>
+
+<h3 align="center">
+Backend-Focused Full Stack Developer 🚀 <br>
+Building scalable web applications with Node.js, Express, Next.js & PostgreSQL
+</h3>
 
 ---
 
 ## 🚀 About Me
 
 ```javascript
-class AnasAbdulEl {
-  role = "Full-Stack Next.js Developer";
-  focus = "Building scalable SaaS & E-Commerce applications";
-  
-  stack = {
-    frontend: ["Next.js", "React", "TypeScript", "TailwindCSS", "shadcn/ui", "motion"],
-    backend: ["Next.js API Routes", "Auth.js", "Prisma ORM", "Redis Caching"],
-    testing: ["vitest", "Jest", "RTL"],
-    database: ["PostgreSQL", "Neon"],
-    validation: ["Zod"],
-    security: ["bcrypt"],
-    performance: ["Redis Caching"],
-    deployment: ["Vercel"],
+class Anas {
+  role = "Backend-Focused Full Stack Developer";
+
+  currentFocus = [
+    "REST APIs",
+    "Backend Architecture",
+    "Database Design",
+    "Authentication",
+    "Scalable Web Applications"
+  ];
+
+  frontend = {
+    framework: ["Next.js", "React"],
+    language: ["TypeScript", "JavaScript"],
+    styling: ["TailwindCSS", "shadcn/ui"],
+    state: ["Redux Toolkit"],
+    animation: ["Motion"]
   };
 
+  backend = {
+    runtime: ["Node.js"],
+    framework: ["Express.js"],
+    orm: ["Prisma"],
+    database: ["PostgreSQL"],
+    auth: ["JWT", "Refresh Tokens", "bcrypt"],
+    validation: ["Zod"],
+    cache: ["Redis"]
+  };
+
+  tools = [
+    "Git",
+    "GitHub",
+    "Postman",
+    "Linux (Arch)",
+    "VS Code",
+    "Neovim"
+  ];
+
+  learning = [
+    "Docker",
+    "Testing",
+    "System Design",
+    "CI/CD",
+    "Cloud Deployment"
+  ];
+
   principles = [
-    "Clean architecture",
-    "Modern UI/UX",
-    "Responsive-first design",
-    "Performance optimization",
-    "Scalable backend structure"
+    "Clean Architecture",
+    "Scalable Systems",
+    "Readable Code",
+    "Performance",
+    "Developer Experience"
   ];
 }
-
 ```
+
 ---
 
-<h3>🔥 What I Build</h3> 
+## 💡 About Me
 
-  - 🏗 Full-Stack SaaS Applications
-  - 🛒 Modern E-Commerce Platforms
-  - 🔐 Secure Authentication Systems (Auth.js + bcrypt)
-  - 📦 Role-Based Dashboards (Admin / User)
-  - ⚡ Optimized Apps with Redis Caching
-  - 🎨 Modern, Responsive & Animated UI
-  ---
-    
-<h3>🧰 Tech Stack</h3> 
- <h4>💻 Frontend</h4>
- 
-- Next.js 
-- React 
-- TypeScript 
-- TailwindCSS 
-- shadcn/ui 
-- Animation Libraries ( motion )
-    
-<h4>⚙️ Backend</h4>
-  
-- Next.js Server Actions 
-- API Routes • Prisma ORM 
-- PostgreSQL (Neon)
-- Redis Caching
+I'm a Computer Science student passionate about building complete web applications—from intuitive frontend interfaces to scalable backend systems.
 
-<h4>🔐 Authentication & Security</h4>
+My frontend foundation allows me to create polished user experiences, while my current focus is on backend engineering, API design, authentication, database architecture, and building production-ready systems.
 
-- Auth.js 
-- bcrypt 
+I enjoy learning by building real projects and continuously improving my engineering skills.
+
+---
+
+# 🔥 What I Build
+
+- 🚀 Full Stack Web Applications
+- 🔐 Authentication & Authorization Systems
+- ⚡ REST APIs
+- 🛒 SaaS & E-Commerce Platforms
+- 📊 Dashboard Systems
+- 📦 Database-Driven Applications
+- 🧩 Clean & Scalable Backend Architecture
+
+---
+
+# 🛠 Tech Stack
+
+### 💻 Frontend
+
+- Next.js
+- React
+- TypeScript
+- JavaScript
+- TailwindCSS
+- shadcn/ui
+- Redux Toolkit
+- Motion
+
+### ⚙ Backend
+
+- Node.js
+- Express.js
+- Prisma ORM
+- REST APIs
+- PostgreSQL
+- Redis
+
+### 🔐 Authentication & Security
+
+- JWT
+- Refresh Tokens
+- bcrypt
 - Zod Validation
-      
-<h4>🚀 Deployment & Tools</h4>
 
-- Vercel 
-- Git 
+### 🧪 Testing
+
+- Jest
+- Vitest
+- React Testing Library
+
+### 🚀 Tools
+
+- Git
 - GitHub
-- Jest & Vitest
-- RTL
-<hr />
+- Linux (Arch)
+- VS Code
+- Neovim
+- Postman
+- Vercel
 
+---
 
-<h3>🧰 Tech ToolBox</h3> 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,ts,tailwind,prisma,postgres,redis,git,github,vscode,vercel,vitest,jest,express" />
-<hr />
+# 🧰 Tech Toolbox
 
-<h3>📂 Featured Projects</h3> 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,nextjs,react,redux,tailwind,prisma,postgres,redis,docker,git,github,linux,vscode,neovim,vercel,jest" />
+</p>
 
-<h4>🏋️ SaaS Platform</h4>
+---
 
-- Authentication & Role-based access
-- Dashboard & Protected Routes
-- Server Actions
-- Redis caching
-- Modern UI
+# 📂 Featured Projects
 
-<h4>🛒 E-Commerce Store</h4>
+## 🔐 Authentication System
 
-- Cart & Checkout system
-- Admin panel (CRUD products)
-- Auth system
-- Responsive design
-- Production deployed on Vercel
-    <hr />
+Production-ready authentication backend featuring:
 
-<h4>🎯 Current Focus</h4>
+- JWT Authentication
+- Refresh Token Rotation
+- Role-Based Authorization
+- Prisma ORM
+- PostgreSQL
+- Zod Validation
+- Error Handling Middleware
 
-- Advanced Next.js Architecture
-- Performance Optimization
-- Clean Code & Scalability
-- Backend depth (caching, system design)
-<hr />
+---
 
-📊 GitHub Stats
+## 🛒 Full Stack E-Commerce
 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=anas-abdul-el&theme=tokyonight&hide_border=true&border_radius=10" width="48%"/>
-<hr />
+Built with modern technologies:
 
-  <h3>⚡ Motto</h3>
-"Build real systems. Think scalable. Ship production-ready."
+- Next.js
+- Express API
+- PostgreSQL
+- Admin Dashboard
+- Authentication
+- Responsive UI
+
+---
+
+## 📋 Task Management Platform
+
+- Secure REST API
+- Authentication
+- Database Relations
+- CRUD Operations
+- Clean Architecture
+
+---
+
+# 🌱 Currently Learning
+
+- Backend Architecture
+- System Design
+- Docker
+- CI/CD
+- Automated Testing
+- Cloud Infrastructure
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=anas-abdul-el&theme=tokyonight&hide_border=true&border_radius=10"/>
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=anas-abdul-el&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anas-abdul-el&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+- Build production-ready backend systems
+- Master Node.js & Express ecosystem
+- Learn Docker & CI/CD
+- Deepen System Design knowledge
+- Contribute to Open Source
+- Land a Remote Software Engineering role
+
+---
+
+# 📫 Connect With Me
+
+- 💼 LinkedIn: *(Add your LinkedIn)*
+- 🌍 Portfolio: *(Add your portfolio website)*
+- 📧 Email: *(Add your email)*
+
+---
+
+<h3 align="center">
+
+**"Build reliable software. Keep learning. Ship with confidence."**
+
+</h3>
