@@ -44,7 +44,7 @@ class Anas {
     "Git",
     "GitHub",
     "Postman",
-    "Linux (Arch)",
+    "Linux (Arch | Ubuntu)",
     "VS Code",
     "Neovim"
   ];
