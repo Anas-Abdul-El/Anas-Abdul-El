@@ -130,7 +130,7 @@ I enjoy learning by building real projects and continuously improving my enginee
 
 - Git
 - GitHub
-- Linux (Arch)
+- Linux (Arch | Ubuntu)
 - VS Code
 - Neovim
 - Postman
@@ -227,9 +227,7 @@ Built with modern technologies:
 
 # 📫 Connect With Me
 
-- 💼 LinkedIn: *(Add your LinkedIn)*
-- 🌍 Portfolio: *(Add your portfolio website)*
-- 📧 Email: *(Add your email)*
+- 📧 Email: Anasabdulel@gmail.com
 
 ---
 
