@@ -12,7 +12,7 @@ Building scalable web applications with Node.js, Express, Next.js & PostgreSQL
 
 ```javascript
 class Anas {
-  role = "Backend-Focused Full Stack Developer";
+  role = "Full Stack Developer";
 
   currentFocus = [
     "REST APIs",
@@ -193,24 +193,6 @@ Built with modern technologies:
 - CI/CD
 - Automated Testing
 - Cloud Infrastructure
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=anas-abdul-el&theme=tokyonight&hide_border=true&border_radius=10"/>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=anas-abdul-el&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anas-abdul-el&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 ---
 
