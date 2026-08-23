@@ -167,28 +167,18 @@ Production-ready authentication backend featuring:
 Built with modern technologies:
 
 - Next.js
-- Express API
 - PostgreSQL
+- Prisma
 - Admin Dashboard
 - Authentication
 - Responsive UI
 
 ---
 
-## 📋 Task Management Platform
-
-- Secure REST API
-- Authentication
-- Database Relations
-- CRUD Operations
-- Clean Architecture
-
----
-
 # 🌱 Currently Learning
 
 - Backend Architecture
-- System Design
+- Redis
 - Docker
 - CI/CD
 - Automated Testing
